@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/xsiphr/StoneGate-plugin?label=Release&color=483699&style=flat-square" alt="Release">
-  <img src="https://img.shields.io/github/stars/xsiphr/StoneGate-plugin?style=flat-square&color=EBCB8B" alt="Stars">
+  <img src="https://img.shields.io/github/v/release/t40ix/StoneGate-plugin?label=Release&color=483699&style=flat-square" alt="Release">
+  <img src="https://img.shields.io/github/stars/t40ix/StoneGate-plugin?style=flat-square&color=EBCB8B" alt="Stars">
   <a href="https://obsidian.md/plugins?id=stonegate"><img src="https://img.shields.io/badge/dynamic/json?logo=obsidian&color=483699&label=downloads&query=$[%22stonegate%22].downloads&url=https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-plugin-stats.json&style=flat-square" alt="Downloads"></a>
-  <img src="https://img.shields.io/github/license/xsiphr/StoneGate-plugin?style=flat-square&color=81A1C1" alt="License">
+  <img src="https://img.shields.io/github/license/t40ix/StoneGate-plugin?style=flat-square&color=81A1C1" alt="License">
   <img src="https://img.shields.io/badge/platform-desktop%20%7C%20mobile-informational?style=flat-square" alt="Platform">
 </p>
 
@@ -31,13 +31,13 @@ StoneGate protects your Obsidian vault and individual folders with password auth
 
 **Manual installation**
 
-1. Download `main.js`, `manifest.json`, and `styles.css` from the [latest release](https://github.com/xsiphr/StoneGate-plugin/releases/latest).
+1. Download `main.js`, `manifest.json`, and `styles.css` from the [latest release](https://github.com/t40ix/StoneGate-plugin/releases/latest).
 2. Create a folder named `stonegate` inside your vault's `.obsidian/plugins/` directory.
 3. Copy the three downloaded files into that folder.
 4. Reload Obsidian and enable StoneGate from **Settings → Community plugins**.
 
 <p align="center">
-  <img src="https://img.shields.io/github/downloads/xsiphr/StoneGate-plugin/total?style=flat-square&color=A3BE8C&label=manual%20downloads" alt="Manual Downloads">
+  <img src="https://img.shields.io/github/downloads/t40ix/StoneGate-plugin/total?style=flat-square&color=A3BE8C&label=manual%20downloads" alt="Manual Downloads">
 </p>
 
 ## <img src="assets/bonefire.gif" width="40"> Features
@@ -128,5 +128,5 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 ---
 
 <p align="center">
-  Created with 🤍 by <b><a href="https://github.com/xsiphr">Abdulrahman Agiba | xsiphr</a></b>
+  Created with 🤍 by <b><a href="https://github.com/t40ix">Abdulrahman Agiba | t40ix</a></b>
 </p>
